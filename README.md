@@ -21,7 +21,7 @@
 }
 .main {
   float:left;
-  width:45%;
+  width:5%;
   padding:20px;
 }
 
